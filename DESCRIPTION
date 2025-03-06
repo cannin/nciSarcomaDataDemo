@@ -1,0 +1,13 @@
+Package: nciSarcomaDataDemo
+Type: Package
+Title: nciSarcomaData Demonstration
+Version: 0.1.2
+Author: Augustin Luna <augustin@nih.gov>
+Maintainer: Fathi Elloumi <fathi.elloumi@nih.gov>
+Description: NCI DTP Sarcoma project data
+License: Apache-2.0
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Depends: R (>= 3.5), rcellminer
+Suggests: dplyr, tidyr, stringr

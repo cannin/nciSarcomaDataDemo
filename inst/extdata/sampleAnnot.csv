@@ -1,0 +1,72 @@
+Name,OncoTree1,OncoTree2,OncoTree3,OncoTree4
+A-204,Soft_Tissue,Rhabdomyosarcoma (RMS),NA,NA
+A-673,Bone,Ewing Sarcoma (ES),NA,NA
+A549/ATCC,Lung,Non-Small Cell Lung Cancer,NA,NA
+ASPS-1,Soft_Tissue,Alveolar Soft Part Sarcoma (ASPS),NA,NA
+CHA-59,Bone,NA,NA,NA
+CHLA-10,Bone,Ewing Sarcoma (ES),NA,NA
+CHLA-25,Bone,Ewing Sarcoma (ES),NA,NA
+CHLA-258,Bone,Ewing Sarcoma (ES),NA,NA
+CHLA-32,Bone,Ewing Sarcoma (ES),NA,NA
+CHLA-9,Bone,Ewing Sarcoma (ES),NA,NA
+CHP-100,Bone,Ewing Sarcoma (ES),NA,NA
+COG-E-352,Bone,Ewing Sarcoma (ES),NA,NA
+DDLS,Soft_Tissue,Liposarcoma (LIPO),Dedifferentiated Liposarcoma (DDLS),NA
+ES-1,Bone,Ewing Sarcoma (ES),NA,NA
+ES-2,Bone,Ewing Sarcoma (ES),NA,NA
+ES-3,Bone,Ewing Sarcoma (ES),NA,NA
+ES-4,Bone,Ewing Sarcoma (ES),NA,NA
+ES-6,Bone,Ewing Sarcoma (ES),NA,NA
+ES-7,Bone,Ewing Sarcoma (ES),NA,NA
+ES-8,Bone,Ewing Sarcoma (ES),NA,NA
+EW8,Bone,Ewing Sarcoma (ES),NA,NA
+G-401,Kidney,Rhabdoid Cancer (MRT),NA,NA
+hMSC,Bone,NA,NA,NA
+HOS,Bone,Osteosarcoma (OS),NA,NA
+Hs 132.T,Soft_Tissue,Spindle Cell Sarcoma,NA,NA
+Hs 706.T,Bone,Giant Cell Tumor of Bone (GCTB),NA,NA
+Hs 729,Soft_Tissue,Rhabdomyosarcoma (RMS),NA,NA
+Hs 913.T,Soft_Tissue,Fibrosarcoma (FIBS),NA,NA
+HSSY-II,Soft_Tissue,Synovial Sarcoma (SYNS),NA,NA
+HT-1080,Soft_Tissue,Fibrosarcoma (FIBS),NA,NA
+Hu09,Bone,Osteosarcoma (OS),NA,NA
+JJ012,Bone,NA,NA,NA
+KHOS NP,Bone,Osteosarcoma (OS),NA,NA
+KHOS-240S,Bone,Osteosarcoma (OS),NA,NA
+KHOS-312H,Bone,Osteosarcoma (OS),NA,NA
+LS141,Soft_Tissue,Liposarcoma (LIPO),Dedifferentiated Liposarcoma (DDLS),NA
+MES-SA,Uterus,Uterine Sarcoma,NA,NA
+MES-SA Dx5,Uterus,Uterine Sarcoma,NA,NA
+MHM-25,Bone,NA,NA,NA
+MHM-8,Bone,NA,NA,NA
+MPNST,Peripheral_Nervous_System,Nerve Sheath Tumor (NST),Malignant Peripheral Nerve Sheath Tumor (MPNST),NA
+NHAC-kn,Bone,NA,NA,NA
+NHDF,Skin,NA,NA,NA
+NHOst,Bone,NA,NA,NA
+OHS,Bone,Osteosarcoma (OS),NA,NA
+RD,Soft_Tissue,Rhabdomyosarcoma (RMS),NA,NA
+RD-ES,Bone,Ewing Sarcoma (ES),NA,NA
+Rh18,Soft_Tissue,Rhabdomyosarcoma (RMS),NA,NA
+Rh28,Soft_Tissue,Rhabdomyosarcoma (RMS),NA,NA
+Rh28 PX11/LPAM,Soft_Tissue,Rhabdomyosarcoma (RMS),NA,NA
+Rh30,Soft_Tissue,Rhabdomyosarcoma (RMS),NA,NA
+Rh36,Soft_Tissue,Rhabdomyosarcoma (RMS),NA,NA
+Rh41,Soft_Tissue,Rhabdomyosarcoma (RMS),NA,NA
+SAOS-2,Bone,Osteosarcoma (OS),NA,NA
+SJCRH30(RMS 13),Soft_Tissue,Rhabdomyosarcoma (RMS),NA,NA
+SJSA-1,Bone,Osteosarcoma (OS),NA,NA
+SK-ES-1,Bone,Ewing Sarcoma (ES),NA,NA
+SK-LMS-1,Soft_Tissue,Leiomyosarcoma (LMS),NA,NA
+SK-N-MC,Bone,Ewing Sarcoma (ES),NA,NA
+SK-UT-1,Soft_Tissue,Leiomyosarcoma (LMS),NA,NA
+SK-UT-1B,Soft_Tissue,Leiomyosarcoma (LMS),NA,NA
+SkMC,Bone,NA,NA,NA
+ST8814,Peripheral_Nervous_System,Nerve Sheath Tumor (NST),Malignant Peripheral Nerve Sheath Tumor (MPNST),NA
+SW 1353,Bone,Chondrosarcoma (CHS),NA,NA
+SW 684,Soft_Tissue,Fibrosarcoma (FIBS,NA,NA
+SW 982,Soft_Tissue,Synovial Sarcoma (SYNS),NA,NA
+SYO-1,Soft_Tissue,Synovial Sarcoma (SYNS),NA,NA
+TC-32,Bone,Ewing Sarcoma (ES),NA,NA
+TC-71,Bone,Ewing Sarcoma (ES),NA,NA
+U-2 OS,Bone,Osteosarcoma (OS),NA,NA
+VA-ES-BJ,Soft_Tissue,Epithelioid Sarcoma (EPIS),NA,NA
